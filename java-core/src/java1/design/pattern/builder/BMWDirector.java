@@ -3,6 +3,7 @@ package java1.design.pattern.builder;
 /**
  * 角色Director：
  * Director：构造一个使用Builder接口的对象，指导构建过程。
+ * 指挥者，用来指挥建造过程
  * @author zhaojw_420
  *
  */
