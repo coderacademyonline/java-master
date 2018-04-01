@@ -4,71 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/桥接模式UML图.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/命令模式UML图.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetAddressList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetBrand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetSoft.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/BakeChickenWingCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/BakeMuttonCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/Barbecuer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/CommandClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/Waiter.java" />
+    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="Java8新特性之流式计算">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/array/StackOrderTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/array/StackOrderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/conquer/FalseCoin.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/conquer/FalseCoin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/probability/MonterPI.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/probability/MonterPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/sort/InsertionSort.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/sort/InsertionSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/sort/SelectSort.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/sort/SelectSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/algorithm/string/FactorTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/algorithm/string/FactorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/collection/CollectionSort.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/collection/CollectionSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/io/file/MyFile.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/io/file/MyFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/io/file/MyFileRead.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/io/file/MyFileRead.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/io/nio/NIOClient.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/io/nio/NIOClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/oop/innerclass/MemberInnerClass.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/oop/innerclass/MemberInnerClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/oop/polymorphic/MyStatic.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/oop/polymorphic/MyStatic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/boundedbuffer/BoundedBufferByWait.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/boundedbuffer/BoundedBufferByWait.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/local/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/local/ThreadLocalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/synchronization/Counter.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/synchronization/Counter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThread.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThreadCommunication.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThreadCommunication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThreadSynchrized.java" afterPath="$PROJECT_DIR$/java-core/src/java1/core/thread/trabitional/TraditionThreadSynchrized.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/LinkTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/LinkTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/TestDoubleLink.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/TestDoubleLink.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/TestFirstLastLink.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/link/TestFirstLastLink.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/sequence/MySeqNode.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/sequence/MySeqNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/sequence/SequenceTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/sequence/SequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/tree/MyTree.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/tree/MyTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/data/structure/tree/MyTreeNode.java" afterPath="$PROJECT_DIR$/java-core/src/java1/data/structure/tree/MyTreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMW.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMW.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWDirector.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWDirector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWX5Builder.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWX5Builder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BuildBMWTest.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BuildBMWTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/AbstractCustomer.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/AbstractCustomer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/AirconditionA.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/AirconditionA.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMW523.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMW523.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMW523Factory.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMW523Factory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMWFactory.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMWFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Customer.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Customer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Customer1.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Customer1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Engine.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/Engine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/FactoryBMW320.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/FactoryBMW320.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/FactoryBMW523.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/FactoryBMW523.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/Observer.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/Observer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/WinXinUser.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/WinXinUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/DynamicProxy.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/DynamicProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/DynamicUserDao.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/DynamicUserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/IDynamicUserDao.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/IDynamicUserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/IStaticUserDao.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/IStaticUserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/StaticUserDao.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/proxy/StaticUserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/singleton/HungrySington.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/singleton/HungrySington.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-core/src/java1/design/pattern/singleton/ThreadLazySington2.java" afterPath="$PROJECT_DIR$/java-core/src/java1/design/pattern/singleton/ThreadLazySington2.java" />
     </list>
     <ignored path="java-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,64 +27,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HandsetSoft.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetSoft.java">
+      <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core/src/java1/core/newfeature/LambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HandsetGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HandsetAddressList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetAddressList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HandsetBrand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetBrand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrandsetBrandN.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrandsetBrandM.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
               <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#16661#16662#0" expanded="true" />
+                <element signature="e#16686#16687#0" expanded="true" />
+                <element signature="e#16720#16721#0" expanded="true" />
+                <element signature="e#16748#16749#0" expanded="true" />
+                <element signature="e#16779#16780#0" expanded="true" />
+                <element signature="e#16806#16807#0" expanded="true" />
+                <element signature="e#16846#16847#0" expanded="true" />
+                <element signature="e#16878#16879#0" expanded="true" />
+                <element signature="e#16905#16906#0" expanded="true" />
+                <element signature="e#16931#16932#0" expanded="true" />
+                <element signature="e#16966#16967#0" expanded="true" />
+                <element signature="e#16996#16997#0" expanded="true" />
+                <element signature="e#17025#17026#0" expanded="true" />
+                <element signature="e#17053#17054#0" expanded="true" />
+                <element signature="e#17092#17093#0" expanded="true" />
+                <element signature="e#17126#17127#0" expanded="true" />
+                <element signature="e#17158#17159#0" expanded="true" />
+                <element signature="e#17186#17187#0" expanded="true" />
+                <element signature="e#17228#17229#0" expanded="true" />
+                <element signature="e#17262#17263#0" expanded="true" />
+                <element signature="e#17295#17296#0" expanded="true" />
+                <element signature="e#17324#17325#0" expanded="true" />
+                <element signature="e#17368#17369#0" expanded="true" />
+                <element signature="e#17404#17405#0" expanded="true" />
+                <element signature="e#17496#17497#0" expanded="true" />
+                <element signature="e#17547#17548#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWDirector.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/builder/BMWBuilder.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/Observer.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/observer/WinXinUser.java" />
@@ -225,6 +136,7 @@
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetBrand.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandN.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandM.java" />
+        <option value="$PROJECT_DIR$/java-core/src/java1/core/newfeature/LambdaTest.java" />
       </list>
     </option>
   </component>
@@ -234,11 +146,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="y" value="23" />
     <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,16 +207,27 @@
               <item name="java-core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-master" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeature" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandClient">
+  <component name="RunManager" selected="Application.LambdaTest">
     <configuration name="CommandClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -417,14 +340,14 @@
       <module name="java-core" />
       <envs />
     </configuration>
-    <configuration name="MementoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="java1.design.pattern.memento.*" />
+          <option name="PATTERN" value="java1.core.newfeature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="java1.design.pattern.memento.MementoClient" />
+      <option name="MAIN_CLASS_NAME" value="java1.core.newfeature.LambdaTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -481,6 +404,53 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -682,55 +652,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -839,19 +760,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MementoClient" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompositeClient" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IteratorClient" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HandsetClient" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CommandClient" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CompositeClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IteratorClient" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HandsetClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CommandClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LambdaTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CommandClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HandsetClient" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IteratorClient" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CompositeClient" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MementoClient" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LambdaTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CommandClient" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HandsetClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IteratorClient" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CompositeClient" />
       </list>
     </recent_temporary>
   </component>
@@ -879,6 +800,7 @@
       <workItem from="1512804605578" duration="9003000" />
       <workItem from="1512873461571" duration="32046000" />
       <workItem from="1512999761296" duration="5534000" />
+      <workItem from="1522561432009" duration="11728000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1512820350470</created>
@@ -894,29 +816,37 @@
       <option name="project" value="LOCAL" />
       <updated>1512921615693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java8新特性之流式计算">
+      <created>1522574626684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522574626684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79702000" />
+    <option name="totallyTimeSpent" value="91430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="23" width="1932" height="821" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4680851" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4679943" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45826513" sideWeight="0.5282516" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.198036" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3086771" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51004463" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44370124" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854985" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16402116" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1924307" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -942,42 +872,43 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13747954" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45826513" sideWeight="0.5282516" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1924307" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1924307" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.4717484" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4680851" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4679943" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08249721" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.198036" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34566146" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51004463" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44370124" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50446427" sideWeight="0.4760128" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854985" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16402116" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16791044" sideWeight="0.508" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13747954" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16791044" sideWeight="0.508" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -989,7 +920,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+    <MESSAGE value="Java8新特性之流式计算" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java8新特性之流式计算" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,20 +934,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/BMW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/factory/FactoryBMW320.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1230,7 +1148,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1238,17 +1155,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#299#300#0" expanded="false" />
-            <element signature="e#348#349#0" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#480#481#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,7 +1162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,7 +1169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1272,14 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#457#458#0" expanded="false" />
-            <element signature="e#693#694#0" expanded="false" />
-            <element signature="e#736#737#0" expanded="false" />
-            <element signature="e#785#786#0" expanded="false" />
-            <element signature="e#830#831#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1287,7 +1183,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-44">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,12 +1198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1316,7 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1324,12 +1212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1337,12 +1219,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,9 +1226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1360,13 +1233,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetSoft.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="228">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
@@ -1374,15 +1246,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetAddressList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="114">
           <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding />
         </state>
@@ -1390,7 +1262,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetBrand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="114">
           <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding />
         </state>
@@ -1398,19 +1270,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/BrandsetBrandM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1472">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core/src/java1/core/newfeature/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#16661#16662#0" expanded="true" />
+            <element signature="e#16686#16687#0" expanded="true" />
+            <element signature="e#16720#16721#0" expanded="true" />
+            <element signature="e#16748#16749#0" expanded="true" />
+            <element signature="e#16779#16780#0" expanded="true" />
+            <element signature="e#16806#16807#0" expanded="true" />
+            <element signature="e#16846#16847#0" expanded="true" />
+            <element signature="e#16878#16879#0" expanded="true" />
+            <element signature="e#16905#16906#0" expanded="true" />
+            <element signature="e#16931#16932#0" expanded="true" />
+            <element signature="e#16966#16967#0" expanded="true" />
+            <element signature="e#16996#16997#0" expanded="true" />
+            <element signature="e#17025#17026#0" expanded="true" />
+            <element signature="e#17053#17054#0" expanded="true" />
+            <element signature="e#17092#17093#0" expanded="true" />
+            <element signature="e#17126#17127#0" expanded="true" />
+            <element signature="e#17158#17159#0" expanded="true" />
+            <element signature="e#17186#17187#0" expanded="true" />
+            <element signature="e#17228#17229#0" expanded="true" />
+            <element signature="e#17262#17263#0" expanded="true" />
+            <element signature="e#17295#17296#0" expanded="true" />
+            <element signature="e#17324#17325#0" expanded="true" />
+            <element signature="e#17368#17369#0" expanded="true" />
+            <element signature="e#17404#17405#0" expanded="true" />
+            <element signature="e#17496#17497#0" expanded="true" />
+            <element signature="e#17547#17548#0" expanded="true" />
           </folding>
         </state>
       </provider>
