@@ -35,6 +35,8 @@ public class StreamTest {
                 add(new Student(20162001, "仲谋", 22, 3, "土木工程", "浙江大学"));
                 add(new Student(20162002, "鲁肃", 23, 4, "计算机科学", "浙江大学"));
                 add(new Student(20163001, "丁奉", 24, 5, "土木工程", "南京大学"));
+                add(new Student(20162002, "鲁肃", 23, 4, "计算机科学", "浙江大学"));
+                add(new Student(20160002, "伯约", 21, 2, "信息安全", "武汉大学"));
             }
         };
 
@@ -73,11 +75,12 @@ public class StreamTest {
 
         /// StreamTest.reduceTest(students);
 
-        /// StreamTest.collectTest(students);
+        // StreamTest.collectTest(students);
 
         /// StreamTest.groupTest(students);
 
-        StreamTest.partTest(students);
+        //StreamTest.partTest(students);
+        StreamTest.repeatStudentsTest(students);
     }
 
     private static <T> void show(List<T> list){
@@ -485,6 +488,29 @@ public class StreamTest {
             System.out.println("是否是武大学生："+entry.getKey());
             show(entry.getValue());
         }
+    }
+
+    /**
+     * 根据学生姓名查询除重复元素
+     * @param students
+     */
+    private static void repeatStudentsTest(List<Student> students){
+        // list 对应的 Stream
+      List<String> repeatStudents =   students.stream()
+              // 获得元素出现频率的 Map，键为元素，值为元素出现的次数
+                .collect(Collectors.toMap(e -> e.getName(), e -> 1, Integer::sum))
+              // 所有 entry 对应的 Stream
+                .entrySet().stream()
+              // 过滤出元素出现次数大于 1 的 entry（过滤出来的是重复的，若这里条件是等于，即可达到去重的目的）
+                .filter(entry -> entry.getValue()>1)
+            // 获得 entry 的键（重复元素）对应的 Stream
+                .map(entry -> entry.getKey())
+              // 转化为 List
+                .collect(Collectors.toList());
+
+        repeatStudents.forEach(repeatStudent -> {
+            System.out.println(repeatStudent);
+        });
     }
 }
 
