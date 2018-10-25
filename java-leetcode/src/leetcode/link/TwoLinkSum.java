@@ -1,5 +1,7 @@
 package leetcode.link;
 
+import org.omg.CORBA.INTERNAL;
+
 import java.math.BigDecimal;
 import java.util.Random;
 
@@ -146,4 +148,5 @@ public class TwoLinkSum {
         }
         return headNode;
     }
+
 }
