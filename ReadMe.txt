@@ -1,15 +1,1 @@
-Camel Java Router Project
-=========================
-
-To build this project use
-
-    mvn install
-
-To run this project from within Maven use
-
-    mvn exec:java
-
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
-
+java基础，算法，数据结构示例代码，LeetCode中的习题解法
