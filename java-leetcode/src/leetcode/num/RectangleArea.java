@@ -2,7 +2,6 @@ package leetcode.num;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -16,9 +15,14 @@ import java.util.List;
  */
 public class RectangleArea {
 
+    public static void main(String[] args){
+        RectangleArea rectangleArea = new RectangleArea();
+        System.out.println(rectangleArea.computeArea(-3, 0, 3, 4, 0, -1, 9, 2));
+    }
+
     private int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
         int total = (C-A) * (D-B) + (G-E) * (H-F);
-        if (C < E || D < F || G < A || H< D){
+        if (C < E || D < F || G < A || H < B){
             // 无重合
             return total;
         }else {
