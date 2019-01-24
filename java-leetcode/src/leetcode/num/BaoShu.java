@@ -28,6 +28,8 @@ package leetcode.num;
  输入：5
  输出："111221"
 
+ 输入：6
+ 输出："312211"
  * </p>
  *
  * @author jwzhao
