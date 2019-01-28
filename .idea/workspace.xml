@@ -7,8 +7,8 @@
     <bookmark url="file://$PROJECT_DIR$/../gwms/interface/src/main/java/com/behosoft/inter/dubbo/business/IReceiptBase.java" description="ApiResponse&lt;Object&gt; getDetailList(ApiRequest&lt;Strin..." line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="leetcode第155题：最小栈">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/QueueForStack.java" />
+    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/StackForQueue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java-master.iws" />
@@ -49,15 +49,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QueueForStack.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/QueueForStack.java">
+      <file leaf-file-name="StackForQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/StackForQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            <state relative-caret-position="161">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1698#1699#0" expanded="true" />
-                <element signature="e#1739#1740#0" expanded="true" />
+                <element signature="e#1525#1526#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
+                <element signature="e#1652#1653#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/bridge/HandsetClient.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/Barbecuer.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/Command.java" />
         <option value="$PROJECT_DIR$/java-core/src/java1/design/pattern/command/BakeMuttonCommand.java" />
@@ -150,6 +151,7 @@
         <option value="$PROJECT_DIR$/java-leetcode/src/leetcode/num/BaoShu.java" />
         <option value="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/MinStack.java" />
         <option value="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/QueueForStack.java" />
+        <option value="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/StackForQueue.java" />
       </list>
     </option>
   </component>
@@ -302,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueueForStack">
+  <component name="RunManager" selected="Application.StackForQueue">
     <configuration name="BaoShu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -311,25 +313,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="leetcode.num.BaoShu" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="DoubleNumOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.num.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.num.DoubleNumOperation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -387,6 +370,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="leetcode.num.RectangleArea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java-leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="StackForQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.StackForQueue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -799,19 +801,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DoubleNumOperation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RectangleArea" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BaoShu" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MinStack" />
-      <item index="4" class="java.lang.String" itemvalue="Application.QueueForStack" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RectangleArea" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BaoShu" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MinStack" />
+      <item index="3" class="java.lang.String" itemvalue="Application.QueueForStack" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StackForQueue" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QueueForStack" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MinStack" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BaoShu" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RectangleArea" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DoubleNumOperation" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StackForQueue" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QueueForStack" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MinStack" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BaoShu" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RectangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -892,7 +894,7 @@
       <workItem from="1547177172495" duration="2500000" />
       <workItem from="1548041518343" duration="486000" />
       <workItem from="1548319611946" duration="10034000" />
-      <workItem from="1548397943167" duration="5476000" />
+      <workItem from="1548397943167" duration="6587000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1512820350470</created>
@@ -999,14 +1001,22 @@
       <option name="project" value="LOCAL" />
       <updated>1548382683410</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="leetcode第225题：两个队列实现栈">
+      <created>1548644098311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548644098311</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268276000" />
+    <option name="totallyTimeSpent" value="269387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-98" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1017,11 +1027,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45826513" sideWeight="0.5282516" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22310969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23373984" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373984" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50914633" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44715446" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44715446" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15335463" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
@@ -1109,7 +1119,8 @@
     <MESSAGE value="矩形面积计算" />
     <MESSAGE value="leetcode第38题：报数" />
     <MESSAGE value="leetcode第155题：最小栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode第155题：最小栈" />
+    <MESSAGE value="leetcode第225题：两个队列实现栈" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode第225题：两个队列实现栈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1282,12 +1293,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/QueueForStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        <state relative-caret-position="322">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1698#1699#0" expanded="true" />
             <element signature="e#1739#1740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/StackForQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1652#1653#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
           </folding>
         </state>
       </provider>
