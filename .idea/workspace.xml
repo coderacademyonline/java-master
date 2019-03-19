@@ -7,48 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/../gwms/interface/src/main/java/com/behosoft/inter/dubbo/business/IReceiptBase.java" description="ApiResponse&lt;Object&gt; getDetailList(ApiRequest&lt;Strin..." line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="leetcode第225题：两个队列实现栈">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-core/java1/algorithm/bisearch/TwoSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-core/java1/core/list/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-core/java1/core/list/TestForEach.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-core/java1/core/newfeature/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/array/NumberReverse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/array/RemoveDuplicates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/array/RemoveElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/array/ThreeNumSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/array/TwoSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/collection/Anagram.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/dynamicplanning/MostGold.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/ispalindrome/IsPalindrome.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/isvalidbrackets/IsValidBrackets$Stack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/isvalidbrackets/IsValidBrackets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/link/ExistLoop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/link/FindKthTail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/link/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/link/TwoLinkSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/longestcommonprefix/LongestCommonPrefix.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/mergetwolinks/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/mergetwolinks/MergeTwoLinks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/num/BaoShu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/num/DoubleNumOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/num/RectangleArea.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/num/RoundingMode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/romantoInt/RomanToInt.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/stack/LeetCode844.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/stack/MinStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/stack/NextGreaterElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/stack/QueueForStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/stack/StackForQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/BigNumberPlus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/BigStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/GenerateParenthesis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/RemoveKDigits$Stack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/RemoveKDigits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/SearchInsert.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java-leetcode/leetcode/str/StrStr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-leetcode/src/leetcode/stack/LeetCode71.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7256d29f-4f88-4e1d-924e-026a125d01f9" name="Default" comment="leetcode第225题：两个队列实现栈" />
     <ignored path="java-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -86,20 +45,7 @@
     <favorites_list name="java-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode71.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/LeetCode71.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -253,22 +199,6 @@
               <item name="java-leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-master" type="462c0819:PsiDirectoryNode" />
-              <item name="java-leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="link" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-master" type="462c0819:PsiDirectoryNode" />
-              <item name="java-leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -910,7 +840,7 @@
       <workItem from="1551183324250" duration="176000" />
       <workItem from="1551865795797" duration="725000" />
       <workItem from="1552269924312" duration="138000" />
-      <workItem from="1552459512844" duration="18845000" />
+      <workItem from="1552459512844" duration="19094000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1512820350470</created>
@@ -1028,11 +958,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308886000" />
+    <option name="totallyTimeSpent" value="309135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-98" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1044,13 +973,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45826513" sideWeight="0.5282516" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22310969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50914633" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14430894" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4237805" sideWeight="0.47974414" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44512194" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20713525" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20713525" sideWeight="0.492" order="0" side_tool="false" content_ui="combo" x="783" y="30" width="353" height="957" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19222577" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1480,10 +1409,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-leetcode/src/leetcode/stack/LeetCode71.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="244">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
