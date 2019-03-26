@@ -21,8 +21,9 @@ public class Polymorphic {
 		System.out.println("1--" + a1.show(b));//B继承了A,相当于传进去的是A，  A and A  第三级。。。
 		System.out.println("2--" + a1.show(c));//C继承了B。B继承了A      A and A   第三级。。
 		System.out.println("3--" + a1.show(d)); ///  A and D   第一级。。
-		
-		System.out.println("4--" + a2.show(b));//引用是A，所以this代表A对象。  B and A   
+
+		//引用是A，所以this代表A对象。  B and A
+		System.out.println("4--" + a2.show(b));
 		System.out.println("5--" + a2.show(c));//  B and A   在第三级时，确定了要调用A中的show(A obj)的方法，但是，由于动态连接的问题，最终却调用了子类重写的方法
 		System.out.println("6--" + a2.show(d));// A and D
 		
@@ -47,13 +48,10 @@ class B extends A {
 		return ("B and B");
 	}
 
+	@Override
 	public String show(A obj) {
 		return ("B and A");
 	}
-	
-/*	public String show(D obj) {
-		return ("B and D");
-	}*/
 }
 
 class C extends B {
